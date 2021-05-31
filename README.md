@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitor</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabrevitor&label=Profile%20views&color=0e75b6&style=flat" alt="fabrevitor" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **T-SQL, Java**
 
-- 📫 How to reach me **vitor_fabre@hotmail.com**
+- 📫 How to reach me **vitor_fabre@hotmail.com** or **https://www.linkedin.com/in/vitor-fabre-de-souza/**
 
 
 <h3 align="left">Languages and Tools:</h3>
