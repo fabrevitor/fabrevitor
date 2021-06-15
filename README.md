@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabrevitor&label=Profile%20views&color=0e75b6&style=flat" alt="fabrevitor" /> </p>
 
-- 🌱 I’m currently learning **Java, Kotlin, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **Java, Kotlin, HTML, CSS, JavaScript, Docker and Microservices**
 
-- 💬 Ask me about **T-SQL, Java**
+- 💬 Ask me about **T-SQL, Java and Kotlin**
 
 - 📫 How to reach me **vitor_fabre@hotmail.com** or **https://www.linkedin.com/in/vitor-fabre-de-souza/**
 
