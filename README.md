@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **T-SQL and Java**
 
-- 📫 How to reach me **vitor_fabre@hotmail.com**
+- 📫 How to reach me **vitor_fabre@hotmail.com and LinkedIn https://www.linkedin.com/in/vitor-fabre-de-souza/**
 
 
 <h3 align="left">Languages and Tools:</h3>
