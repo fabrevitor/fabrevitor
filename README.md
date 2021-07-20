@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabrevitor&label=Profile%20views&color=0e75b6&style=flat" alt="fabrevitor" /> </p>
 
-- 🌱 I’m currently learning **Kotlin, Python, Django, HTML, CSS, JavaScript, Docker, Git**
+- 🌱 I’m currently learning **Java, HTML, CSS, JavaScript, Docker, Git**
 
 - 💬 Ask me about **T-SQL, Java and Python**
 
