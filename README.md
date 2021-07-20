@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, HTML, CSS, JavaScript, Docker, Git**
 
-- 💬 Ask me about **T-SQL, Java and Python**
+- 💬 Ask me about **T-SQL and Java**
 
 - 📫 How to reach me **vitor_fabre@hotmail.com**
 
