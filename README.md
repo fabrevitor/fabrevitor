@@ -7,5 +7,3 @@
 
 - Working with Java and Kotlin
 - 📫 How to reach me **vitor_fabre@hotmail.com and LinkedIn https://www.linkedin.com/in/vitor-fabre-de-souza/**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabrevitor&show_icons=true&locale=en&layout=compact" alt="fabrevitor" /></p>
