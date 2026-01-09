@@ -1,9 +1,21 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Vitor</h1>
-<h3 align="center">Software Engineer - Backend</h3>
 
+Languages: Portuguese (Native), Spanish (Advanced), English (Intermediate)
 
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabrevitor&label=Profile%20views&color=0e75b6&style=flat" alt="fabrevitor" /> </p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+</div>
 
-- Working with Java and Kotlin
-- 📫 How to reach me **vitor_fabre@hotmail.com and LinkedIn https://www.linkedin.com/in/vitor-fabre-de-souza/**
+###
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fabrevitor&label=Profile%20views&color=0e75b6&style=flat" alt="fabrevitor" /> </p>
