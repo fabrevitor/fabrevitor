@@ -4,5 +4,5 @@
 
 <h1 align="center">Hi 👋, I'm Vitor</h1>
 
-- **Languages**: Portuguese (🇧🇷 Native), Spanish (🇪🇸 Advanced), English (🇺🇸 Intermediate)
+- **Languages**: Portuguese 🇧🇷 (Native), Spanish 🇪🇸  (Advanced), English 🇺🇸 (Intermediate)
 - **Main Stack**: Backend Web Development with Java and Kotlin
